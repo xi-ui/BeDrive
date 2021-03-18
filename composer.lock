@@ -23,6 +23,7 @@
             "require": {
                 "ext-curl": "*",
                 "ext-json": "*",
+                "ext-gd": "*",
                 "ext-mbstring": "*",
                 "php": "^5.3 || ^7.0 || ^8.0",
                 "psr/http-message": "^1.0",
